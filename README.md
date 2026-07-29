@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifki</h1>
 
 <h3 align="center">
-Computer Engineering Student | Backend Developer
+Computer Engineering Student 
 </h3>
 
 ---
