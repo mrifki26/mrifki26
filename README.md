@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Rifki</h1>
 
-<!--
-**mrifki26/mrifki26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Engineering Student | Backend Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student at Politeknik Negeri Padang
+- 💻 Interested in Backend Development and Microservices
+- 🌱 Currently learning Spring Boot, Docker, Flutter, and DevOps
+- 🚀 Passionate about building scalable backend systems and IoT applications
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- PHP
+
+### Database
+
+- MySQL
+
+### Mobile
+
+- Flutter
+- Dart
+
+### DevOps
+
+- Docker
+- Git
+- GitHub
+
+### Monitoring
+
+- Prometheus
+- Grafana
+
+---
+
+## 🚀 Featured Projects
+
+### 🌶 ChiliTrack
+
+IoT-based Smart Chili Monitoring and Control System using:
+
+- Spring Boot Microservices
+- Flutter
+- ESP32
+- Docker
+- Prometheus
+- Grafana
+
+### 🛒 Web Rifki Store
+
+Simple e-commerce application developed with PHP and MySQL.
+
+### 📚 Mini Library System
+
+PHP-based library management system developed during Web Programming course.
+
+---
+
+## 📫 Contact
+
+- Email: **mrifki260405@gmail.com**
+
+---
+
+⭐ Thank you for visiting my profile!
